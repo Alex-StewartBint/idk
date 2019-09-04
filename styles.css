@@ -33,7 +33,8 @@ img {
 h1 {
   text-align: center;
   color: orange;
-  font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font-family: 'Rubik', sans-serif;
+  font: 60px Monaco,'Rubik', sans-serif;
 }
 
 h2 {
