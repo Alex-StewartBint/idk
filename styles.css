@@ -32,13 +32,13 @@ img {
 
 h1 {
   text-align: center;
-  color: purple;
+  color: orange;
   font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
 h2 {
   text-align: center;
-  color: black;
+  color: orange;
   font-weight: bold;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
