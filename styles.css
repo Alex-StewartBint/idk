@@ -32,9 +32,8 @@ img {
 
 h1 {
   text-align: center;
-  color: #0ECFEA;
-  font-family: 'Rubik', sans-serif;
-  font: 60px Monaco,'Rubik', sans-serif;
+  color: #D41010;
+  font: 60px Monaco,font-family: 'Rubik', sans-serif;
 }
 
 h2 {
