@@ -83,7 +83,7 @@ li {
 }
 
 .button {
-  color: white; 
+  background-color: red;
   border: none;
   color: white;
   padding: 15px 32px;
