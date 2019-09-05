@@ -33,7 +33,7 @@ img {
 h1 {
   text-align: center;
   color: #D41010;
-  font: 80px Bree_Serif
+  font: 80px font-family: 'Bree Serif', serif;
 }
 
 h2 {
