@@ -41,31 +41,36 @@ h2 {
   text-align: center;
   color: orange;
   font-weight: bold;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px ;
+  font-family: 'Bree Serif', serif;
 }
 
 h3 {
   text-align: center;
   color: grey;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px ;
+  font-family: 'Bree Serif', serif;
 }
 
 h4 {
   text-align: center;
   color: black;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 20px ;
+  font-family: 'Bree Serif', serif;
 }
 
 p {
   text-align: center;
   color: white;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px ;
+  font-family: 'Bree Serif', serif;
 }
 
 li {
   text-align: center;
   color: black;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 20px ;
+  font-family: 'Bree Serif', serif;
 }
 
 .center {
