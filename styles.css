@@ -4,8 +4,17 @@
   font: 60px ;
   font-family: 'Bree Serif', serif;
 }
-
-body {
+.fa-instagram{
+  padding: 60px;
+  font-size: 50px;
+  width: 60px;
+  background: #125688;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+  
+  body {
   height: 100%;
 }
 
